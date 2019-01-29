@@ -1,4 +1,12 @@
-## Your Name
+## Jules Roadknight
+
+The Ad-free Version
+Hi, I'm Jules -- Music Maker, Thinker, Programmer.
+
+The Full Version
+I'm Jules, a Music graduate recently home after two years teaching in Nanjing, China to start a new career in Programming.
+I'm also a typical INTJ; my core drive is making my thoughts into finished products, whether that thought came from a musical motif, or a brief for a program. And I like chess.
+I'm working towards a position that will require me to learn from constant challenges, and allow me to simply make things.
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
