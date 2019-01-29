@@ -2,13 +2,13 @@
 
 **Free Version**
 
-Hi, I'm Jules -- Music Maker, Thinker, Programmer. I'm back from China & looking for a Junior Developer position to start my career in Software Development.
+Hi, I'm Jules -- Music Maker, Thinker, Programmer. I'm happiest when making things, so now that I'm back from China, the search begins for my first Junior Software Developer position.
 
 **Full Version**
 
 I'm Jules, a Music graduate recently home after two years teaching in Nanjing, China to start a new career in Programming.
 
-I'm also a typical INTJ; my core drive is making ideas into finished products, whether that thought came from a musical motif, or a brief for a program. And I like chess.
+I'm also a typical INTJ; my core drive is making ideas into finished products, whether that thought came from a musical motif, or a brief for a program. And yes, I like chess.
 
 I'm working towards a position that will require me to learn from constant challenges, and allow me to simply make things. My experience working with groups of musicians and teaching means that I work best with a combination of teamwork and focused solo effort.
 
@@ -16,9 +16,10 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I took advantage of the many opportunities presented at university to develop my skills for my previous job as an ESL English teacher. Being a committee member of and conducting the Brunel Film Orchestra & Choir Society provided vital practise in managing large groups
+Having played in orchestras from a young age, I've also developed a strong sense of the other side of communication, which is 
 
 - Experience
 - Achievements
