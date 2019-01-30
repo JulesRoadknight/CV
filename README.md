@@ -12,11 +12,7 @@ I'm also a typical INTJ; my core drive is making ideas into finished products, w
 
 I'm working towards a position that will require me to learn from constant challenges, and allow me to simply make things.
 
-My experience working with groups of musicians and teaching means that I work best with a combination of teamwork and focused solo effort.
-
-OR
-
-I know from broad experience teaching and working with musicians that I work best as part of a small team, and with time to work alone.
+I know from broad experience teaching and working with musicians that I work best as part of a small team, and with focused solo effort.
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
