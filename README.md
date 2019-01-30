@@ -2,7 +2,7 @@
 
 **Free Version**
 
-Hi, I'm Jules -- Music Maker, Thinker, Programmer. I'm happiest when making things in small teams and alone, so now that I'm back from China, the search begins for my first Junior Software Developer position.
+Hi, I'm Jules -- Music Maker, Thinker, Programmer. I'm happiest when making things in small teams and on my own, so now that I'm back from China, the search begins for my first Junior Software Developer position.
 
 **Full Version**
 
