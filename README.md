@@ -2,7 +2,7 @@
 
 **Free Version**
 
-Hi, I'm Jules -- Music Maker, Thinker, Programmer. I'm happiest when making things, so now that I'm back from China, the search begins for my first Junior Software Developer position.
+Hi, I'm Jules -- Music Maker, Thinker, Programmer. I'm happiest when making things in small teams and alone, so now that I'm back from China, the search begins for my first Junior Software Developer position.
 
 **Full Version**
 
@@ -10,7 +10,11 @@ I'm Jules, a Music graduate recently home after two years teaching in Nanjing, C
 
 I'm also a typical INTJ; my core drive is making ideas into finished products, whether that thought came from a musical motif, or a brief for a program. And yes, I like chess.
 
-I'm working towards a position that will require me to learn from constant challenges, and allow me to simply make things. My experience working with groups of musicians and teaching means that I work best with a combination of teamwork and focused solo effort.
+I'm working towards a position that will require me to learn from constant challenges, and allow me to simply make things.
+
+My experience working with groups of musicians and teaching means that I work best with a combination of teamwork and focused solo effort.
+OR
+I know from broad experience teaching and working with musicians that I work best as part of a small team, and with time to work alone.
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -20,6 +24,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 I took advantage of the many opportunities presented at university to develop my skills for my previous job as an ESL English teacher. Being a committee member of and conducting the Brunel Film Orchestra & Choir Society provided vital practise in managing large groups
 Having played in orchestras from a young age, I've also developed a strong sense of the other side of communication, which is 
+Accessibility is the name of the game, and before I brought foreign cultures and abstract concepts to students in a second language, 
 
 - Experience
 - Achievements
