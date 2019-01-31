@@ -18,9 +18,9 @@ I know from broad experience teaching and working with musicians that I work bes
 
 #### Communication
 
-I took advantage of the many opportunities presented at university to develop my skills for my previous job as an ESL English teacher. Being a committee member and conductor of the Brunel Film Orchestra & Choir Society provided vital practise in managing large groups, and working with 
+I took advantage of the many opportunities presented at university to develop my skills for my previous job as an ESL English teacher. Being a committee member and conductor of the Brunel Film Orchestra & Choir Society provided vital practise in managing large groups, and working with small, goal-oriented groups.
 
-Having played in orchestras from a young age, I've also developed a strong sense of the other half of communication, which is being receptive to what others try to communicate. This capacity proved vital when teaching English to students from a huge range of ages and abilities
+Having played in orchestras from a young age, I've also developed a strong sense of the other half of communication, which is being receptive to what others try to communicate. This capacity proved vital when teaching English to students from a huge range of ages and abilities, 
 
 Accessibility is the name of the game, and before I brought foreign cultures and abstract concepts to students in a second language, 
 
