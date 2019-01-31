@@ -2,7 +2,7 @@
 
 **Free Version**
 
-Hi, I'm Jules -- Music Maker, Thinker, Programmer. I'm happiest when making things in small teams and on my own, so now that I'm back from China, the search begins for my first Junior Software Developer position.
+Hi, I'm Jules -- Music Maker, Thinker, Programmer. I'm at my peak when making things in small teams and on my own, so now that I'm back from China, the hunt begins for my first Junior Software Developer position.
 
 **Full Version**
 
@@ -12,17 +12,15 @@ I'm also a typical INTJ; my core drive is making ideas into finished products, w
 
 I'm working towards a position that will require me to learn from constant challenges, and allow me to simply make things.
 
-I know from broad experience teaching and working with musicians that I work best as part of a small team, and with focused solo effort.
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I know from broad experience teaching and working with musicians that I work best as part of a small team, with some focused solo effort.
 
 ## Skills
 
 #### Communication
 
-I took advantage of the many opportunities presented at university to develop my skills for my previous job as an ESL English teacher. Being a committee member of and conducting the Brunel Film Orchestra & Choir Society provided vital practise in managing large groups
+I took advantage of the many opportunities presented at university to develop my skills for my previous job as an ESL English teacher. Being a committee member and conductor of the Brunel Film Orchestra & Choir Society provided vital practise in managing large groups, and working with 
 
-Having played in orchestras from a young age, I've also developed a strong sense of the other side of communication, which is 
+Having played in orchestras from a young age, I've also developed a strong sense of the other half of communication, which is being receptive to what others try to communicate. This capacity proved vital when teaching English to students from a huge range of ages and abilities
 
 Accessibility is the name of the game, and before I brought foreign cultures and abstract concepts to students in a second language, 
 
@@ -65,6 +63,9 @@ HSK3 Mandarin Chinese Proficiency
 ## Experience
 
 **Jinling High School, Nanjing (September 2016 - June 2018)**
-*Foreign Expert & Teacher*  
+*Foreign Expert & Teacher*
+- Achieved test scores well over the required 80% class average (88% and 92%)
+- Planned and delivered curriculums to over 600 students per week
+- Extra responsiblities included IELTS evaluation, debate competition prep, and admissions
 **Various West-London Academies (October 2015 - January 2016)**
 *Cover Teacher*  
