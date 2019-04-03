@@ -97,4 +97,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 # Interests
 
 - Language learning, currently working on Chinese at intermediate level
-- A slow-burning interest in deep games like chess and poker
+- A slow-burning interest in competitive games like chess and poker
+- 
