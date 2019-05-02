@@ -34,7 +34,7 @@ I know from broad experience teaching, working with musicians, and recently pair
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [Deep Red & Yellow (Connect4 + AI)](https://github.com/Jimjule/deep_red_yellow_connect4) | Inspired by Deep Blue, and wanting to not just learn a new tech, but also a new language, we built a Connect 4 game in Python and trained it to beat itself with Reinforcement Learning. I placed huge importance on optimising the game logic and data structures, since training the AI involves playing hundreds of games. | 2 weeks | Python, Tensorflow, Keras, OpenAI Gym | Pytest |
+| [Deep Red & Yellow (Connect4 + AI)](https://github.com/Jimjule/deep_red_yellow_connect4) | Inspired by Deep Blue. Wanting to not just learn a new tech, but also a new language, we built a Connect 4 game in Python and trained it to beat itself with Reinforcement Learning. I placed huge importance on optimising the game logic and data structures, since training the AI involves playing hundreds of games. | 2 weeks | Python, Tensorflow, Keras, OpenAI Gym | Pytest |
 | [Acebook](https://github.com/Jimjule/Acebook-Team_404) | A diverse team of five work on our interpretation of Facebook with new technologies. This was a learning project, with a focus on Rails and CI/CD. | 2 weeks | Ruby on Rails, HTML/CSS (Materialize), PostgreSQL, Heroku | RSpec, Capybara, Travis, Selenium Webdriver |
 | [Bowling Scorecard](https://github.com/Jimjule/bowling-challenge) | A logic-heavy Javascript challenge, my first time using the constructor/prototype pattern to emulate OOP.  | 1 weekend |HTML/CSS, JavaScript, AJAX | Jasmine  |
 
