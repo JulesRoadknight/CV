@@ -64,6 +64,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achieved test scores well over the required 80% class average (88% and 92%)
 - Planned and delivered curriculums to over 600 students per week
 - Extra responsiblities included IELTS evaluation, debate competition prep, and admissions
+
 **Various West-London Academies (October 2015 - January 2016)**
 *Cover Teacher*  
 
