@@ -94,4 +94,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Language learning, currently working on Chinese at intermediate level
 - A slow-burning interest in competitive games like chess and poker
-- Understanding and making the things that I rely on
+- Producing my own software, music, blog, and generally making and understanding things
