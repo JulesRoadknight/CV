@@ -29,7 +29,7 @@ I'm also a typical INTJ; my core drive is making ideas into finished products, w
 
 I'm working towards a position that will require me to learn from constant challenges, and allow me to simply make things.
 
-I know from broad experience teaching and working with musicians that I work best as part of a small team, with some focused solo effort.
+I know from broad experience teaching, working with musicians, and recently pair and group programming that I work best as part of a small team, with some focused solo effort.
 
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
@@ -44,13 +44,9 @@ I know from broad experience teaching and working with musicians that I work bes
 
 I took advantage of the many opportunities presented at university to develop my skills for my previous job as an ESL English teacher. Being a committee member and conductor of the Brunel Film Orchestra & Choir Society provided vital practise in managing large groups, and working with small, goal-oriented groups.
 
-Having played in orchestras from a young age, I've also developed a strong sense of the other half of communication, which is being receptive to what others try to communicate. This capacity proved vital when teaching English to students from a huge range of ages and abilities, 
+Having played in orchestras from a young age, I've also developed a strong sense of the other half of communication, which is being receptive to what others try to communicate. This capacity proved vital when teaching English to students from a huge range of ages and abilities, as there's a much greater degree of projecting ideas when unsure of the exact terminology.
 
-Accessibility is the name of the game, and before I brought foreign cultures and abstract concepts to students in a second language, 
-
-- Experience
-- Achievements
-- Evidence
+Accessibility is the name of the game, and before I brought foreign cultures and abstract concepts to students in a second language, I worked with native English speakers, breaking down my understanding of mathematics (and the rest) to help students with learning difficulties.
 
 #### Another Skill
 
