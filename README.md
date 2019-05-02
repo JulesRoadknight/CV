@@ -34,9 +34,9 @@ I know from broad experience teaching and working with musicians that I work bes
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [CodeCraft](https://github.com/KTSE-2018/KTSE) | Completely indoctrinated by the course, my final project group created a bootcamp survival simulation game. Wanting to learn how to build it from the ground up, we didn't use any game frameworks and used TDD to build our own game logic. | 2 weeks | JavaScript, JQuery, HTML/CSS, Heroku | Mocha, Chai, Sinon |
-| [PinkFish (Facebook)](https://github.com/Hemesh-Unka/acebook-pinkFish) | Five rag tag individuals band together and set off to create our interpretation of Facebook with an emphasis on focusing on learning as a group. The site's design was driven by a plush toy of a pink fish found close to our desk. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
-| [Tasteless Notes](https://github.com/vivianallen/tastelessnotes) | A group of four christened 'The Tasteless Sheep' create a notes SPA - the caveat being we weren't allowed to use any frameworks. If we wanted to employ TDD, we had to build the test framework ourselves.  | 1 week |HTML/CSS, JavaScript | Tasteless Testing Suite  |
+| [Deep Red & Yellow (Connect4 + AI)](https://github.com/Jimjule/deep_red_yellow_connect4) | Inspired by Deep Blue, and wanting to not just learn a new tech, but also a new language, we built a Connect 4 game in Python and trained it to beat itself with Reinforcement Learning. I placed huge importance on optimising the game logic and data structures, since training the AI involves playing hundreds of games. | 2 weeks | Python, Tensorflow, Keras, OpenAI Gym | Pytest |
+| [Acebook](https://github.com/Jimjule/Acebook-Team_404) | A diverse team of five work on our interpretation of Facebook with new technologies. This was a learning project, with a focus on Rails and CI/CD. | 2 weeks | Ruby on Rails, HTML/CSS (Materialize), PostgreSQL, Heroku | RSpec, Capybara, Travis, Selenium Webdriver |
+| [Bowling Scorecard](https://github.com/Jimjule/bowling-challenge) | A logic-heavy Javascript challenge, my first time using the constructor/prototype pattern to emulate OOP.  | 1 weekend |HTML/CSS, JavaScript, AJAX | Jasmine  |
 
 # Skills
 
@@ -81,8 +81,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Python
+- RSpec, Jasmine, Pytest
 
 #### Brunel University London (September 2012 - July 2015)
 
@@ -94,4 +94,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Language learning, currently working on Chinese at intermediate level
 - A slow-burning interest in competitive games like chess and poker
-- 
+- Understanding and making the things that I rely on
