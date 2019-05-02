@@ -75,14 +75,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (January 2019 - April 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code, so I've learned to make the same programs in 4 languages
+- I'm a fast, independant learner, who would rather up the challenge by programming the game that I'm training the AI to play, than import an existing one.
+- Great collaborator:
+- Clare said: “Jules is a relaxed and supportive pairing partner. He makes sure he involves me even when it's a topic he knows more about and he communicates what he's doing really clearly so we can have a constructive dialogue to move things forward.”
+- Kate said: “Working with Jules is a delight. He is calm and capable and works well with all of the team. He is good at taking responsibility and determined in seeing it through.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript, Python
-- RSpec, Jasmine, Pytest
+- RSpec, Capybara, Jasmine, Pytest
 
 #### Brunel University London (September 2012 - July 2015)
 
@@ -94,4 +96,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Language learning, currently working on Chinese at intermediate level
 - A slow-burning interest in competitive games like chess and poker
-- Producing my own software, music, blog, and generally making and understanding things
+- Producing my own software, music, blog, and generally making and learning things
