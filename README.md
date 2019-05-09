@@ -48,14 +48,14 @@ Having played in orchestras from a young age, I've also developed a strong sense
 
 Accessibility is the name of the game, and before I brought foreign cultures and abstract concepts to students in a second language, I worked with native English speakers, breaking down my understanding of mathematics (and the rest) to help students with learning difficulties.
 
-#### Another Skill
+#### Deep Learner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+My focus is always on the principle when learning new things, 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- During my time at Makers, I used four different languages to make 
+-
+-
+-
 
 # Experience
 
