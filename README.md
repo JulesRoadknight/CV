@@ -53,7 +53,7 @@ Accessibility is the name of the game, and before I brought foreign cultures and
 When it comes to working with others, I'm always malleable to the goals of the team, while extracting personal value as it comes.
 
 - During my time at Makers, I pair-programmed every day for weeks, and the scope of partners I worked with has prepared me for future team work.
-- As well as pairing, I've worked in self-directed, Agile groups to deliver a product in a limited time.
+- As well as pairing, I've worked in self-directed, Agile groups to deliver a product in a limited time, like with Deep Red & Yellow, where we had two weeks to test-drive a logic-heavy game in a new language, and then learn how to implement Reinforcement learning.
 - My group strength comes from being able to fill whatever role is necessary, as I have leadership experience, but will take a supporting role for the good of the team.
 - Although I had an interest in Natural Language Processing for our final project, I saw the value in learning Python and working with machine learning, so deferred to our other idea, Deep Red & Yellow.
 
@@ -72,11 +72,10 @@ When it comes to working with others, I'm always malleable to the goals of the t
 
 #### Makers Academy (January 2019 - April 2019)
 
-- Curious and passionate about code, so I've learned to make the same programs in 4 languages
+- Curious and passionate about code, so I've learned to make the same programs in 4 languages.
 - I'm a fast, independant learner, who would rather up the challenge by programming the game that I'm training the AI to play, than import an existing one.
-- Great collaborator:
-- Clare said: “Jules is a relaxed and supportive pairing partner. He makes sure he involves me even when it's a topic he knows more about and he communicates what he's doing really clearly so we can have a constructive dialogue to move things forward.”
-- Kate said: “Working with Jules is a delight. He is calm and capable and works well with all of the team. He is good at taking responsibility and determined in seeing it through.
+- Initially guarded about the idea of pair-programming, I'm a complete convert to the benefits it brings to my code, and take every opportunity to get feedback when working alone.
+- It's encouraging to see that skills from my musical background helped me to excel in group projects here, which feel like a forte of mine.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -86,10 +85,12 @@ When it comes to working with others, I'm always malleable to the goals of the t
 #### Brunel University London (September 2012 - July 2015)
 
 - Achieved a 2:1 with Honours in Music Composition (BMus)
-- Treasurer, Arranger & Conductor of Brunel's Film Orchestra & Choir Society
+- Treasurer, Arranger, and Conductor of Brunel's Film Orchestra & Choir Society
 - Conducted, played, and sang at several concerts with large and small groups.
 
 # Interests
+
+I live for that feeling of something that I didn't understand 'clicking', so most of my interests learning based. It's particularly rewarding to have something to show for my effort, so I find ways to turn learning into making.
 
 - Language learning, currently working on Chinese at intermediate level
 - A slow-burning interest in competitive games like chess and poker
