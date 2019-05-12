@@ -40,14 +40,6 @@ I know from broad experience teaching, working with musicians, and recently pair
 
 # Skills
 
-#### Communicator
-
-I took advantage of the many opportunities presented at university to develop my skills for my previous job as an ESL English teacher. Being a committee member and conductor of the Brunel Film Orchestra & Choir Society provided vital practise in managing large groups, and working with small, goal-oriented groups.
-
-Having played in orchestras from a young age, I've also developed a strong sense of the other half of communication, which is being receptive to what others try to communicate. This capacity proved vital when teaching English to students from a huge range of ages and abilities, as there's a much greater degree of projecting ideas when unsure of the exact terminology.
-
-Accessibility is the name of the game, and before I brought foreign cultures and abstract concepts to students in a second language, I worked with native English speakers, breaking down my understanding of mathematics (and the rest) to help students with learning difficulties.
-
 #### Collaborator
 
 When it comes to working with others, I'm always malleable to the goals of the team, while extracting personal value as it comes.
@@ -55,7 +47,15 @@ When it comes to working with others, I'm always malleable to the goals of the t
 - During my time at Makers, I pair-programmed every day for weeks, and the scope of partners I worked with has prepared me for future team work.
 - As well as pairing, I've worked in self-directed, Agile groups to deliver a product in a limited time, like with Deep Red & Yellow, where we had two weeks to test-drive a logic-heavy game in a new language, and then learn how to implement Reinforcement learning.
 - My group strength comes from being able to fill whatever role is necessary, as I have leadership experience, but will take a supporting role for the good of the team.
-- Although I had an interest in Natural Language Processing for our final project, I saw the value in learning Python and working with machine learning, so deferred to our other idea, Deep Red & Yellow.
+- Although I had an interest in Natural Language Processing for our final project, I saw the value in learning Python and working with machine learning, so deferred to our other idea, Deep Red & Yellow (https://github.com/Jimjule/deep_red_yellow_connect4).
+
+#### Communicator
+
+I took advantage of the many opportunities presented at university to develop my skills for my previous job as an ESL English teacher. Being a committee member and conductor of the Brunel Film Orchestra & Choir Society provided vital practise in managing large groups, and working with small, goal-oriented groups.
+
+Having played in orchestras from a young age, I've also developed a strong sense of the other half of communication, which is being receptive to what others try to communicate. This capacity proved vital when teaching English to students from a huge range of ages and abilities, as there's a much greater degree of projecting ideas when unsure of the exact terminology.
+
+Accessibility is the name of the game, and before I brought foreign cultures and abstract concepts to students in a second language, I worked with native English speakers, breaking down my understanding of mathematics (and the rest) to help students with learning difficulties.
 
 # Experience
 
