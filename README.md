@@ -90,7 +90,7 @@ Accessibility is the name of the game, and before I brought foreign cultures and
 
 # Interests
 
-I live for that feeling of something that I didn't understand 'clicking', so most of my interests learning based. It's particularly rewarding to have something to show for my effort, so I find ways to turn learning into making.
+I live for that feeling of something that I didn't understand 'clicking', so most of my interests are learning based. It's particularly rewarding to have something to show for my effort, so I find ways to turn learning into making.
 
 - Language learning, currently working on Chinese at intermediate level
 - A slow-burning interest in competitive games like chess and poker
