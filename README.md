@@ -19,7 +19,7 @@
 
 **Free Version**
 
-Hi, I'm Jules -- Music Maker, Thinker, Programmer. I'm at my peak when making things in small teams and on my own, so now that I'm back from China, the hunt begins for my first Junior Software Developer position.
+Hi, I'm Jules -- Music Maker, Thinker, Programmer. I'm at my peak when making things in small teams and on my own, and after two years working in China, the hunt begins for my first Junior Software Developer position.
 
 **Full Version**
 
@@ -46,7 +46,7 @@ When it comes to working with others, I'm always malleable to the goals of the t
 
 - During my time at Makers, I pair-programmed every day for weeks, and the scope of partners I worked with has prepared me for future team work.
 - As well as pairing, I've worked in self-directed, Agile groups to deliver a product in a limited time, like with Deep Red & Yellow, where we had two weeks to test-drive a logic-heavy game in a new language, and then learn how to implement Reinforcement learning.
-- My group strength comes from being able to fill whatever role is necessary, as I have leadership experience, but will take a supporting role for the good of the team.
+- My group strength comes from being able to fill whatever role is necessary, as I have led varied groups of musicians and students, but will take a supporting role for the good of the team.
 - Although I had an interest in Natural Language Processing for our final project, I saw the value in learning Python and working with machine learning, so deferred to our other idea, Deep Red & Yellow (https://github.com/Jimjule/deep_red_yellow_connect4).
 
 #### Communicator
