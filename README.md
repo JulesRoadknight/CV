@@ -19,15 +19,13 @@
 
 **Free Version**
 
-Hi, I'm Jules -- Music Maker, Thinker, Programmer. I'm at my peak when making things in small teams and on my own, and after two years working in China, the hunt begins for my first Junior Software Developer position.
+Hi, I'm Jules -- Music Maker, Thinker, Programmer. I'm at my peak when making things in small teams and on my own, and after two years working in China, I'm enjoying working as a Junior Software Developer.
 
 **Full Version**
 
-I'm Jules, a Music graduate recently home after two years teaching in Nanjing, China to start a new career in Programming.
+I'm Jules, a Music graduate with two years experience teaching in Nanjing, China,  and now a Junior Software Developer.
 
-I'm also a typical INTJ; my core drive is making ideas into finished products, whether that thought came from a musical motif, or a brief for a program. And yes, I like chess.
-
-I'm working towards a position that will require me to learn from constant challenges, and allow me to simply make things.
+Learning is my drive, so the ever-changing IT industry suits me right down to the ground, along with the teamwork, planning, and problem-solving that comes with it.
 
 I know from broad experience teaching, working with musicians, and recently pair and group programming that I work best as part of a small team, with some focused solo effort.
 
