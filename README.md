@@ -57,6 +57,12 @@ Accessibility is the name of the game, and before I brought foreign cultures and
 
 # Experience
 
+**Cordant Group (June 2019 - October 2019)**
+*Junior Developer*
+- Migrated application to latest version of Angular, added NgRx, and swapped-out Materialize for Material
+- Created full-stack app to survey 2000 employees/month and present results to management
+- Automated onboarding process with Node, and AWS Textract and S3, estimated to save two days/employee/week
+
 **Jinling High School, Nanjing (September 2016 - June 2018)**
 *Foreign Expert & Teacher*
 - Achieved test scores well over the required 80% class average (88% and 92%)
@@ -90,6 +96,6 @@ Accessibility is the name of the game, and before I brought foreign cultures and
 
 I live for that feeling of something that I didn't understand 'clicking', so most of my interests are learning based. It's particularly rewarding to have something to show for my effort, so I find ways to turn learning into making.
 
+- Even more software! Currently investigating Java and microprocessors
 - Language learning, currently working on Chinese at intermediate level
 - A slow-burning interest in competitive games like chess and poker
-- Producing my own software, music, blog, and generally making and learning things
