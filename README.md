@@ -30,11 +30,11 @@ Learning is my drive, so the ever-changing IT industry suits me right down to th
 I know from broad experience teaching, working with musicians, and recently pair and group programming that I work best as part of a small team, with some focused solo effort.
 
 # Projects
-| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
-|--|--|--|--|--|
-| [Deep Red & Yellow (Connect4 + AI)](https://github.com/Jimjule/deep_red_yellow_connect4) | Inspired by Deep Blue. Wanting to not just learn a new tech, but also a new language, we built a Connect 4 game in Python and trained it to beat itself with Reinforcement Learning. I placed huge importance on optimising the game logic and data structures, since training the AI involves playing hundreds of games. | 2 weeks | Python, Tensorflow, Keras, OpenAI Gym | Pytest |
-| [Acebook](https://github.com/Jimjule/Acebook-Team_404) | A diverse team of five work on our interpretation of Facebook with new technologies. This was a learning project, with a focus on Rails and CI/CD. | 2 weeks | Ruby on Rails, HTML/CSS (Materialize), PostgreSQL, Heroku | RSpec, Capybara, Travis, Selenium Webdriver |
-| [Bowling Scorecard](https://github.com/Jimjule/bowling-challenge) | A logic-heavy Javascript challenge, my first time using the constructor/prototype pattern to emulate OOP.  | 1 weekend |HTML/CSS, JavaScript, AJAX | Jasmine  |
+| Title | Description | Technologies Used | Test Suites/CIs/CDs Employed |
+|--|--|--|--|
+| [Deep Red & Yellow (Connect4 + AI)](https://github.com/Jimjule/deep_red_yellow_connect4) | Inspired by Deep Blue. Wanting to not just learn a new tech, but also a new language, we built a Connect 4 game in Python and trained it to beat itself with Reinforcement Learning. I placed huge importance on optimising the game logic and data structures, since training the AI involves playing hundreds of games. | Python, Tensorflow, Keras, OpenAI Gym | Pytest |
+| [Acebook](https://github.com/Jimjule/Acebook-Team_404) | A diverse team of five work on our interpretation of Facebook with new technologies. This was a learning project, with a focus on Rails and CI/CD. | Ruby on Rails, HTML/CSS (Materialize), PostgreSQL, Heroku | RSpec, Capybara, Travis, Selenium Webdriver |
+| [Bowling Scorecard](https://github.com/Jimjule/bowling-challenge) | A logic-heavy Javascript challenge, my first time using the constructor/prototype pattern to emulate OOP. |HTML/CSS, JavaScript, AJAX | Jasmine  |
 
 # Skills
 
@@ -51,11 +51,18 @@ When it comes to working with others, I'm always malleable to the goals of the t
 
 I took advantage of the many opportunities presented at university to develop my skills for my previous job as an ESL English teacher. Being a committee member and conductor of the Brunel Film Orchestra & Choir Society provided vital practise in managing large groups, and working with small, goal-oriented groups.
 
-Having played in orchestras from a young age, I've also developed a strong sense of the other half of communication, which is being receptive to what others try to communicate. This capacity proved vital when teaching English to students from a huge range of ages and abilities, as there's a much greater degree of projecting ideas when unsure of the exact terminology.
+Having played in orchestras from a young age, I've also developed a strong sense of the oft neglected part of communication, which is being receptive to what others try to communicate. This capacity proved vital when teaching English to students from a huge range of ages and abilities, as there's a much greater degree of projecting ideas when unsure of the exact terminology.
 
 Accessibility is the name of the game, and before I brought foreign cultures and abstract concepts to students in a second language, I worked with native English speakers, breaking down my understanding of mathematics (and the rest) to help students with learning difficulties.
 
 # Experience
+
+**8th Light (January 2020 - September 2020)**
+*Apprentice*
+- Presented work at weekly IPMs, and then estimated the next week's stories
+- Tracked time for billing and improving estimates
+- Independently learned to test-drive in Java and React
+- Gave presentations to prospective applicants on and off-site
 
 **Cordant Group (June 2019 - October 2019)**
 *Junior Developer*
@@ -94,8 +101,9 @@ Accessibility is the name of the game, and before I brought foreign cultures and
 
 # Interests
 
-I live for that feeling of something that I didn't understand 'clicking', so most of my interests are learning based. It's particularly rewarding to have something to show for my effort, so I find ways to turn learning into making.
+My goal every day is to be just a bit better than I was yesterday; I crave that feeling of something that I didn't understand 'clicking', and knowing that I've pushed myself. Or to play some frankly weird computer games.
 
-- Even more software! Currently investigating Java and microprocessors
 - Language learning, currently working on Chinese at intermediate level
-- A slow-burning interest in competitive games like chess and poker
+- A slow-burning interest in competitive poker
+- Calisthenics and running
+- Games, particularly Resource Management, Dystopian, and those with an original take on narratives
