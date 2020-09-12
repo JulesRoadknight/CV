@@ -19,13 +19,13 @@
 
 **Free Version**
 
-Hi, I'm Jules -- Music Maker, Thinker, Programmer. I'm at my peak when making things in small teams and on my own, and after two years working in China, I'm enjoying working as a Junior Software Developer.
+Hi, I'm Jules -- Music Maker, Language-Lover, Programmer. I'm at my peak when making and improving, and after two years working in China, I'm enjoying working as a Junior Software Developer.
 
 **Full Version**
 
-I'm Jules, a Music graduate with two years experience teaching in Nanjing, China,  and now a Junior Software Developer.
+I'm Jules, a Music graduate with two years experience teaching in Nanjing, China, and now a Junior Software Developer.
 
-Learning is my drive, so the ever-changing IT industry suits me right down to the ground, along with the teamwork, planning, and problem-solving that comes with it.
+Learning and improving are my drives, so the ever-changing IT industry suits me right down to the ground, along with the teamwork, planning, and problem-solving that comes with it.
 
 I know from broad experience teaching, working with musicians, and recently pair and group programming that I work best as part of a small team, with some focused solo effort.
 
@@ -34,7 +34,7 @@ I know from broad experience teaching, working with musicians, and recently pair
 |--|--|--|--|
 | [Deep Red & Yellow (Connect4 + AI)](https://github.com/Jimjule/deep_red_yellow_connect4) | Inspired by Deep Blue. Wanting to not just learn a new tech, but also a new language, we built a Connect 4 game in Python and trained it to beat itself with Reinforcement Learning. I placed huge importance on optimising the game logic and data structures, since training the AI involves playing hundreds of games. | Python, Tensorflow, Keras, OpenAI Gym | Pytest |
 | [Acebook](https://github.com/Jimjule/Acebook-Team_404) | A diverse team of five work on our interpretation of Facebook with new technologies. This was a learning project, with a focus on Rails and CI/CD. | Ruby on Rails, HTML/CSS (Materialize), PostgreSQL, Heroku | RSpec, Capybara, Travis, Selenium Webdriver |
-| [Bowling Scorecard](https://github.com/Jimjule/bowling-challenge) | A logic-heavy Javascript challenge, my first time using the constructor/prototype pattern to emulate OOP. |HTML/CSS, JavaScript, AJAX | Jasmine  |
+| [Java Contact Manager](https://github.com/Jimjule/ContactManagerJava) | A Java CLA that stores contact information in a postgres database or in computer memory. |Java, Postgres | JUnit  |
 
 # Skills
 
@@ -66,9 +66,9 @@ Accessibility is the name of the game, and before I brought foreign cultures and
 
 **Cordant Group (June 2019 - October 2019)**
 *Junior Developer*
+- Automated onboarding process with Node, and AWS Textract and S3, estimated to save two days/employee/week
 - Migrated application to latest version of Angular, added NgRx, and swapped-out Materialize for Material
 - Created full-stack app to survey 2000 employees/month and present results to management
-- Automated onboarding process with Node, and AWS Textract and S3, estimated to save two days/employee/week
 
 **Jinling High School, Nanjing (September 2016 - June 2018)**
 *Foreign Expert & Teacher*
